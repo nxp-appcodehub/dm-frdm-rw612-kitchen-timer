@@ -55,3 +55,11 @@ GUI_AppWizard/FileList.txt
 /Release/
 /Debug/
 
+!/Debug/frdmrw612_lvgl_guider_kitchen_timer_Debug_library.ld
+!/Debug/frdmrw612_lvgl_guider_kitchen_timer_Debug_memory.ld
+!/Debug/frdmrw612_lvgl_guider_kitchen_timer_Debug.ld
+
+!/Release/frdmrw612_lvgl_guider_kitchen_timer_Release_library.ld
+!/Release/frdmrw612_lvgl_guider_kitchen_timer_Release_memory.ld
+!/Release/frdmrw612_lvgl_guider_kitchen_timer_Release.ld
+
