@@ -1,0 +1,14 @@
+Release Name: 		   dm-frdm-rw612-kitchen-timer
+Release Version: 	   1.0
+Outgoing License: 	   LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023
+License in File: 	   Licence.txt
+Description: 		   This demo shows a kitchen timer that has a config screen to set the timer, date and color
+Release location: 	   https://github.com/nxp-appcodehub/dm-frdm-rw612-kitchen-timer
+Origin: 			   NXP (BSD-3-clause)
+					   NXP (Proprietary)
+					   CMSIS V5.9.0(Apache-2.0) - https://github.com/ARM-software/CMSIS_5/releases/tag/5.9.0      
+					   lvgl V8.3.10 (MIT) - https://github.com/lvgl/lvgl
+					   FreeRTOS V11.0.1 (MIT) - https://github.com/FreeRTOS
+					   Montserrat Medium font (OFL-1.1) - https://github.com/JulietaUla/Montserrat
+					   Antonio Regular Font (OFL-1.1) - https://www.fontsquirrel.com/
+					   Adventpro Regular Font (OFL-1.1) - https://www.fontsquirrel.com/
